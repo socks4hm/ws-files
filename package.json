@@ -1,0 +1,27 @@
+{
+  "name": "ws-files",
+  "version": "1.0.0",
+  "description": "websocket server receives files and writes to disk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/socks4hm/ws-files.git"
+  },
+  "keywords": [
+    "websocket",
+    "files"
+  ],
+  "author": "gigglr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/socks4hm/ws-files/issues"
+  },
+  "homepage": "https://github.com/socks4hm/ws-files#readme",
+  "dependencies": {
+    "chisel": "0.0.0",
+    "ws": "^7.5.3"
+  }
+}
